@@ -47,4 +47,4 @@ Instead of manual data entry and repetitive setup, this project leverages Large 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/autocommerce-ai.git](https://github.com/yourusername/autocommerce-ai.git)
+   git clone [https://github.com/yourusername/autocommerce-ai.git](https://github.com/onemafia21/autocommerce-ai.git)
