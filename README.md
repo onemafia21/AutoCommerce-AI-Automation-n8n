@@ -1,16 +1,17 @@
 # AutoCommers_AI_Autoation_N8N
 
+
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-## 👨‍💻 Author
 
+## 👨‍💻 Author
 **Kshitij Gautre**
-* Dedicated to building practical AI/ML applications, leveraging Generative LLMs, and driving enterprise automation. 
+* Dedicated to building practical AI/ML applications, leveraging Generative LLMs, and driving enterprise automation.
 * [Connect with me on LinkedIn](https://www.linkedin.com/in/kshitij-gautre-65780b412/)
 
-# 🚀 AutoCommerce AI (or your chosen project name)
+# 🚀 AutoCommerce AI
 
 An automated, AI-driven workflow built in [n8n](https://n8n.io/) that instantly architects and generates e-commerce website structures based on natural language chat inputs. 
 
@@ -47,4 +48,4 @@ Instead of manual data entry and repetitive setup, this project leverages Large 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/autocommerce-ai.git](https://github.com/onemafia21/autocommerce-ai.git)
+   git clone [https://github.com/onemafia21/AutoCommerce-AI-Automation-n8n.git](https://github.com/onemafia21/AutoCommerce-AI-Automation-n8n.git)
