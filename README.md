@@ -36,7 +36,8 @@ Instead of manual data entry and repetitive setup, this project leverages Large 
 1. **Trigger:** A chat message is received containing the client's website requirements.
 2. **Context Gathering:** The workflow pulls relevant historical data or context from the connected database.
 3. **AI Processing:** The OpenAI-powered Agent analyzes the request, utilizing a Structured Output Parser to ensure the data is formatted correctly for a database.
-4. **Execution:** The structured data is appended to a master Google Sheet, kicking off the actual generation or provisioning process. 
+4. **Execution:** The structured data is appended to a master Google Sheet, kicking off the actual generation or provisioning process.
+![Workflow Architecture](VideoProject1.mp)
 
 ## 🚀 Getting Started
 
